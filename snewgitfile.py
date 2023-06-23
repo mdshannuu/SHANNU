@@ -1,0 +1,1 @@
+print("copying this file to the staging araea from the current working directory and from their you will be using commit to move it to the local repositoey an from their push")
